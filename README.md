@@ -6,7 +6,7 @@
 - :books: I would like to learn - App development after I've finished School.
 - :fireworks: Fun fact - I enjoy people telling me I cannot do something, it makes me want to prove them wrong & I like to learn new things anyways. It's a win win.
 
-## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
+## My Tech Stack
 
 <table>
   <tbody>
