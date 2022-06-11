@@ -50,10 +50,8 @@
   </tbody>
 </table>
 
-<div>
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JeromeMoores&count_private=true)](https://github.com/JeromeMoores)
-</div>
-<div>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JeromeMoores&langs_count=8)](https://github.com/JeromeMoores)
-</div>
+
+ [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JeromeMoores&count_private=true)](https://github.com/JeromeMoores)
+
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JeromeMoores&langs_count=8)](https://github.com/JeromeMoores)
 
