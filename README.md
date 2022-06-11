@@ -51,4 +51,4 @@
 </table>
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JeromeMoores)](https://github.com/JeromeMoores/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JeromeMoores&count_private=true)](https://github.com/JeromeMoores/github-readme-stats)
