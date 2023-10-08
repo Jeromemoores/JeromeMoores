@@ -1,11 +1,4 @@
-## Hello World, my name is Jerome!
-
-- :computer: I enjoy full stack development.
-- :school: I am currently Learning -  Full Stack Web Development @Bloom Institute of Technology.
-- :computer: I am the Owner and Founder of Kindred Innovation Inc.
-- :e-mail: How to reach me - You can email me at mooresj15@gmail.com
-- :books: I would like to learn - App development after I've finished School.
-- :fireworks: Fun fact - I enjoy people telling me I cannot do something, it makes me want to prove them wrong & I like to learn new things anyways. It's a win win.
+## Hello, my name is Jerome!
 
 ## My Tech Stack
 
